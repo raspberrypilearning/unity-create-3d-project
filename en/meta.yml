@@ -1,11 +1,10 @@
 title: Create a Unity 3D project
 hero_image: images/banner.png
-description: unity-create-3d-project description
+description: Create a Unity 3D project.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-12-13"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Create a Unity 3D project
+
