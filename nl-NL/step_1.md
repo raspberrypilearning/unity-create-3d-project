@@ -1,9 +1,9 @@
-Open the Unity Hub, make sure that **Projects** is selected from the menu on the left, and then click on **New project**.
+Open de Unity Hub, zorg ervoor dat **Projects** is geselecteerd in het menu aan de linkerkant en klik vervolgens op **New project**.
 
-![The Projects and New project options shown in Unity Hub.](images/new_project.png)
+![De projects en new project options getoond in de Unity Hub.](images/new_project.png)
 
-Choose **All templates** and select **3D Core** from the next menu, then give your project a sensible name and click the **Create project** button.
+Kies **All templates** en selecteer **3D Core** uit het volgende menu, geef vervolgens je project een verstandige naam en klik op de knop **Create project**.
 
-![3D Core highlighted in Unity Hub.](images/3d_core.png)
+![3D Core gemarkeerd in de Unity Hub.](images/3d_core.png)
 
-![Create project button shown in Unity Hub.](images/create_project.png)
+![Create project knop weergegeven in de Unity Hub.](images/create_project.png)
